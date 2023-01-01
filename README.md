@@ -195,7 +195,7 @@ This can be worked around by adding `crossorigin="anonymous"` as an attribute to
 
 A list of projects that use or work with SystemJS in providing modular browser workflows. [Post a PR](https://github.com/systemjs/systemjs/edit/master/README.md).
 
-* [beyondjs.com](https://beyondjs.com) -TypeScript first meta-framework for universal microfrontends/micronservices.
+* [beyondjs.com](https://beyondjs.com) -TypeScript first meta-framework for universal microfrontends/microservices.
 * [esm-bundle](https://github.com/esm-bundle) - list of System.register versions for major libraries, including documentation on how to create a System.register bundle for any npm package.
 * [es-dev-server](https://github.com/open-wc/open-wc/tree/master/packages/es-dev-server) - A web server for developing without a build step.
 * [import map overrides](https://github.com/joeldenning/import-map-overrides/) - Dynamically inject an import map stored in local storage so that you can override the URL for any module. Can be useful for running development modules on localhost against the server.
